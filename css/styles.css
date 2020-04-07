@@ -1,0 +1,160 @@
+body{
+margin:0;
+text-align: center;
+font-family: 'Megrim', cursive;
+}
+hr {
+    background-color:#856c8b ;
+    border-style: dotted none none none;
+    border-top-width: 8px;
+    color:#f5cab3;
+    width: 5%;
+    margin:0 auto;
+    padding:10px 0px;
+
+
+}
+.top-container{
+
+    position:relative;
+  background-color:#856c8b;
+  padding-top: 120px ;
+  padding-bottom: 30px;
+
+}
+.react{
+  max-width: 25%;
+  max-height: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.java{
+  max-width: 25%;
+  max-height: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.computer{
+  max-width: 25%;
+  max-height: 25%;
+float:left;
+  margin-right: 30px;
+}
+.skillrow{
+  width: 54%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h1{
+  margin-top: 0;
+  color: #d8b9c3;
+  font-size: 3.5rem;
+}
+h4{
+
+  font-size: 1.2rem;
+font-family: 'Cutive Mono', monospace;
+  color:#2c003e;
+
+
+
+
+  }
+h2{
+  color: #2c003e;
+font-size:2rem;
+
+}
+h3{
+
+font-family: 'Cutive Mono', monospace;
+  font-size: 1.2rem;
+}
+.bubble{
+    background-color:#856c8b;
+    height: auto;
+
+}
+.middle-container
+{    background-color:#856c8b;
+  position: relative;
+padding-top:30px;
+  padding-bottom: 50px;
+}
+.bottom-container
+{ text-align: center;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  background-color:#856c8b;
+}
+#planet2
+{  position: absolute;
+   max-width: 22%;
+    max-height: 22%;
+    left:72% ;
+    top:1%
+
+}
+#propic{
+  max-width: 20%;
+  max-height: 20%;
+}
+#planet3
+{ position: absolute;
+    max-width: 15%;
+    max-height: 15%;
+    left: 35%;
+}
+#planet5
+{ position: absolute;
+    max-width: 15%;
+    max-height: 15%;
+    left:12%;
+    top:5%;
+
+}
+#planet6
+{ position: absolute;
+    max-width: 25%;
+    max-height: 20%;
+    right:5%;
+    bottom:30%;
+}
+#planet7
+{ position: absolute;
+    max-width: 35%;
+    max-height: 35%;
+    left: 2%;
+    bottom: 2%;
+}
+#astro{
+  max-width: 30%;
+  max-height: 30%;
+
+
+}
+.myButton {
+	box-shadow: 0px 0px 0px 0px #3dc21b;
+	background-color:#422573;
+	border-radius:18px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:17px;
+	padding:19px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 10px #2f6627;
+}
+.myButton:hover {
+	background-color:#6b316b;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+      
